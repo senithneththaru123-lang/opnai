@@ -1,5 +1,5 @@
 ---
-name: Premium Asset Analyzer
+name: premium-asset-analyzer
 description: Analyzes an image concept or prompt for premium stock market viability and quality standards.
 ---
 
