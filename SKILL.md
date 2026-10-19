@@ -1,3 +1,8 @@
+---
+name: Premium Asset Analyzer
+description: Analyzes an image concept or prompt for premium stock market viability and quality standards.
+---
+
 # Skill: Premium Asset Analyzer
 
 ## Command
